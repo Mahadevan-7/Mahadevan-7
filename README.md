@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahadevan</h1>
 
 <p align="center">
-  💻 CS Engineer | MERN Stack Explorer | Building EatFit 🍽️
+  💻 CS Engineering Student | MERN Stack Explorer | Building EatFit 🍽️
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ---
 
 
-### 📊 GitHub Stats & Languages
+### 📊 GitHub Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadevan-7&layout=compact&theme=radical&hide_border=true"/>
