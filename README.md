@@ -53,6 +53,17 @@
 
 ---
 
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahadevan-7&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadevan-7&layout=compact&theme=radical&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahadevan-7&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 
 ### 📊 GitHub Most Used Languages
 
