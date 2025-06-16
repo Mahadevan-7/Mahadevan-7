@@ -62,7 +62,6 @@
 
 ### 🚀 Projects & Goals
 
-- 🔭 Building: **EatFit** — Smart Health Management App
 - 💡 Learning: Full-stack MERN, Git Best Practices
 - 🎯 Goal: Deliver impactful apps that solve real problems
 
