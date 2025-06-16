@@ -11,7 +11,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/.maha_devan.?igsh=MWszaXlseDF0ODh0OQ==" target="_blank">
+  <a href="[https://www.instagram.com/.maha_devan.?igsh=MWszaXlseDF0ODh0OQ==](https://www.instagram.com/_.maha_devan._/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mahadevan-gopakumar-2b09602ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
