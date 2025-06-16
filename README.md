@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahadevan</h1>
 
 <p align="center">
-  💻 CS Engineering Student | MERN Stack Explorer | Building EatFit 🍽️
+  💻 CS Engineering Student | MERN Stack Explorer 
 </p>
 
 ---
