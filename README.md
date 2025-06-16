@@ -1,21 +1,21 @@
 ## Hi there 👋
 
-<h1 align="center">Hey there, I'm Mahadevan 👋</h1>
+<h1 align="center">Hi 👋, I'm Mahadevan</h1>
 
 <p align="center">
-  🚀 Passionate Developer | MERN Explorer | Always Learning
+  💻 CS Engineer | MERN Stack Explorer | Building EatFit 🍽️
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.instagram.com/.maha_devan.?igsh=MWszaXlseDF0ODh0OQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mahadevan-gopakumar-2b09602ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -31,5 +31,44 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netli
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahadevan-7&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahadevan-7&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadevan-7&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 🚀 Projects & Goals
+
+- 🔭 Building: **EatFit** — Smart Health Management App
+- 💡 Learning: Full-stack MERN, Git Best Practices
+- 🎯 Goal: Deliver impactful apps that solve real problems
+
+---
+
+<p align="center">
+  <i>"Code what you dream. Dream what you code."</i>
+</p>
 
