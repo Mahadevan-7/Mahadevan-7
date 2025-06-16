@@ -47,7 +47,6 @@
 ### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahadevan-7&show_icons=true&theme=radical&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadevan-7&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
